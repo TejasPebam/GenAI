@@ -1,0 +1,8 @@
+streamlit==1.65.0
+fastapi
+uvicorn[standard]
+requests
+pydantic
+GitPython
+transformers
+torch
